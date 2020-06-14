@@ -20,5 +20,11 @@ npm run build
 npm run lint
 ```
 
+### Lints and fixes files
+```
+Vue Countdown Timer by Nelson Setyawan
+```
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
