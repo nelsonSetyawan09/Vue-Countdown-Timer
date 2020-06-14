@@ -20,7 +20,7 @@ npm run build
 npm run lint
 ```
 
-### Lints and fixes files
+### Judul
 ```
 Vue Countdown Timer by Nelson Setyawan
 ```
